@@ -1,4 +1,4 @@
-# devops
+# Grafana
 Here I am using docker-compose to run two containers, the app (Grafana) and the Data Base (Postgres).
 
 First of all you will need to install Docker Compose, you can follow this official article https://docs.docker.com/compose/install/
