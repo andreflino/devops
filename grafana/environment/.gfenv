@@ -1,0 +1,9 @@
+GF_DATABASE_TYPE=postgres
+GF_DATABASE_HOST=postgres:5432
+GF_DATABASE_NAME=grafana
+GF_DATABASE_USER=postgres
+GF_DATABASE_PASSWORD=password
+GF_SERVER_ROOT_URL="http://your-dns-url:3000"
+GF_SMTP_ENABLED=true
+GF_SMTP_HOST="your-smtp-server"
+GF_FROM_ADDRESS="grafana@grafana.com"
